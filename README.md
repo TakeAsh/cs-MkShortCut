@@ -12,3 +12,6 @@ The command line tool to make a shortcut.
 
 # Usage Sample
 `MkShortCut "%SystemRoot%/System32/NotePad.exe" "%AppData%/Microsoft/Windows/SendTo" "/W"`
+
+# Requirement
+- .NET framework 4.0 or later.
